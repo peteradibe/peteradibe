@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I,m *Peter Adibe-Igboagi*
+
+🌱 I'm a **beginner Web Developer** on a journey to build beautiful, responsive, and accessible websites.
+
+Follow me on [LinkedIn](https://LinkedIn.com/PeterAdibe)
+
+## 🧰 Tech Stack
+
+- 🌐 HTML5 | CSS3 | JavaScript
+- 🛠️ Learning Git & GitHub
+
 
 <!--
 **peteradibe/peteradibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
