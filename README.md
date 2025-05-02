@@ -2,13 +2,12 @@
 
 🌱 I'm a **beginner Web Developer** on a journey to build beautiful, responsive, and accessible websites.
 
-Follow me on [LinkedIn](https://LinkedIn.com/Peter_Adibe)
+Follow me on [LinkedIn](https://LinkedIn.com/in/peter-adibe-182102225/)
 
 ## 🧰 Tech Stack
 
 - 🌐 HTML5 | CSS3 | JavaScript
 - 🛠️ Learning Git & GitHub
-
 
 <!--
 **peteradibe/peteradibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
