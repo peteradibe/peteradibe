@@ -2,7 +2,7 @@
 
 🌱 I'm a **beginner Web Developer** on a journey to build beautiful, responsive, and accessible websites.
 
-Follow me on [LinkedIn](https://LinkedIn.com/PeterAdibe)
+Follow me on [LinkedIn](https://LinkedIn.com/Peter_Adibe)
 
 ## 🧰 Tech Stack
 
